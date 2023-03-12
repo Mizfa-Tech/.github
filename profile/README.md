@@ -12,6 +12,6 @@ Mizfa Tech utilizes the latest technologies in web development to deliver high-q
 Mizfa Tech offers a wide range of web development services that include web application development, custom software development, e-commerce development, and content management system development. They provide end-to-end solutions that encompass the entire development process, from concept to deployment. Mizfa Tech’s team of experienced developers ensures that their clients' projects are delivered on time, within budget, and to the highest quality standards.
 
 If you want to know more about our team, please visit our website at https://mizfa.com.
-You can also follow us on Instagram at https://instagram.com/mizfa_tech and connect with us on LinkedIn at https://www.linkedin.com/company/13219499/.
+You can also follow us on Instagram at https://instagram.com/mizfa_tech and connect with us on LinkedIn at https://www.linkedin.com/company/mizfa/.
 
 [![Github](https://img.shields.io/badge/Github-MizfaTech-blue)](https://github.com/mizfa-tech/)
