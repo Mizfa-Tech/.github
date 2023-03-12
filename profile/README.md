@@ -1,3 +1,4 @@
+![Welcome to Mizfa](https://github.com/Mizfa-Tech/.github/raw/main/mizfa-welcome.jpg)
 ## Introduction
 
 Mizfa Tech is a proficient web development team that specializes in Python/Django and WordPress/PHP as backend technologies and React/Typescript and Tailwind as frontend technologies. With years of experience in the field, Mizfa Tech has honed their skills to provide cutting-edge web development solutions to clients around the world. They are passionate about building functional and responsive web applications that meet the specific needs of their clients.
