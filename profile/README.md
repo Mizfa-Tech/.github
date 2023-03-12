@@ -1,14 +1,15 @@
-## Hi there 👋
+## Introduction
 
-Welcome to Mizfa Tech Profile.
+Mizfa Tech is a proficient web development team that specializes in Python/Django and WordPress/PHP as backend technologies and React/Typescript and Tailwind as frontend technologies. With years of experience in the field, Mizfa Tech has honed their skills to provide cutting-edge web development solutions to clients around the world. They are passionate about building functional and responsive web applications that meet the specific needs of their clients.
 
-<!--
+## Technologies
 
-**Here are some ideas to get you started:**
+Mizfa Tech utilizes the latest technologies in web development to deliver high-quality and responsive web applications. Python/Django is their go-to backend technology, while WordPress/PHP is their alternative option. They utilize React/Typescript and Tailwind for their frontend development needs. Mizfa Tech is well-versed in these technologies and can provide customized web development solutions to meet the specific needs of their clients.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Services
+
+Mizfa Tech offers a wide range of web development services that include web application development, custom software development, e-commerce development, and content management system development. They provide end-to-end solutions that encompass the entire development process, from concept to deployment. Mizfa Tech’s team of experienced developers ensures that their clients' projects are delivered on time, within budget, and to the highest quality standards.
+
+If you want to know more about Mizfa Tech, please visit their website at https://mizfa.com. You can also follow them on Instagram at https://instagram.com/mizfa_tech and connect with them on LinkedIn at https://www.linkedin.com/company/13219499/.
+
+[![Github](https://img.shields.io/badge/Github-MizfaTech-blue)](https://github.com/mizfa-tech/)
